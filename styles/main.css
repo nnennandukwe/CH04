@@ -56,9 +56,9 @@ main {
     font-size: 22px;
 }
 
-section {
-    float: left;
+aside {
     width: 160px;
+    float:left;
     height: 552px;
 }
 
